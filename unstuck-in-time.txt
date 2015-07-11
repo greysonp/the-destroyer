@@ -1,1 +1,7 @@
-3
+a = 3ce13fc*b3e7409+b3e7409
+a /= 3ce13fc
+b = bff9323-a2d8a54
+c = a+b
+c *= 3ce13fc
+d = 3fb0b04-3f4aaff
+return c+d
